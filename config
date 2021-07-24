@@ -1,5 +1,5 @@
-# You can sort the results by Relevance | Installs | Updated Date | Publisher | Name
-# | Published Date | Rating | Trending
+# You can sort the results by Relevance | Installs | UpdatedDate | Publisher | Name
+# | PublishedDate | Rating | Trending
 SortBy=Installs
 
 # You can determine how many results do you want to see, it can be 10 maximum.
